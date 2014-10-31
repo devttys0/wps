@@ -1,4 +1,4 @@
 wps
 ===
 
-WPS related utilities
+Utilities related to WiFi Protected Setup security.
